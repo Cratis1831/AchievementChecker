@@ -2,7 +2,6 @@
 ## Title: Worldsoul-Searching Achievement Checker
 ## Notes: Checks completion of Geargrinder mount meta-achievements
 ## Author: Cratis
-## Version: 1.0
 ## Version: @project-version@
 ## X-License: GPL v3
 ## X-Curse-Project-ID: 1357976
