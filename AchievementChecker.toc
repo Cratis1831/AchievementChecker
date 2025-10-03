@@ -1,0 +1,6 @@
+## Interface: 110200
+## Title: Worldsoul-Searching Achievement Checker
+## Notes: Checks completion of Geargrinder mount meta-achievements
+## Author: Cratis
+## Version: 1.0
+AchievementChecker.lua
